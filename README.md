@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FarbodTaheri
 - 👀 I’m interested in Topological Data Analysis
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently working as AI Engineer
 - 💞️ 
 - 📫 farbod-taheri@hotmail.com
 
